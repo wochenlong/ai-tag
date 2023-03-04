@@ -1,0 +1,22 @@
+{
+  "name": "koishi-plugin-ai-tag",
+  "description": "随机tag生成，可在本地化中自定义tag库，调动其他跑图机器人",
+  "homepage": "https://github.com/wochenlong/ai-tag",
+  "version": "1.3.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "4.11.8"
+  }
+}
