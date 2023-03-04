@@ -1,0 +1,21 @@
+{
+  "name": "koishi-plugin-ai-tag",
+  "description": "随机tag生成，可在本地化中自定义tag库，半成品",
+  "version": "1.2.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "4.11.8"
+  }
+}
